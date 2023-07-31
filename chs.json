@@ -216,5 +216,17 @@
     "2Decks 0Ban": "2套牌组无Ban",
     "Tournament Page": "比赛链接",
     "ratings_blurb": "<p>Ratings可以简单理解为是玩家自发组织并参与的一个小天梯系统，拥有自己的匹配和排名机制，并在每个大版本的DLC前和DLC后各有一个赛季。</p><p>Ratings的对局规则为2套牌组无Ban，双方牌表不公开。此外，系统会自动统计各职业的胜率与使用率等数据。注意，Ratings数据不包含牌组具体类型数据，但在部分环境中，某些职业可能只会有单一类型的牌组存在，因此也有一定参考意义。</p><p>由于Ratings系统是影之诗竞技环境中为数不多的基于MMR机制的系统之一，因此被普遍认为“含金量”更高。</p>",
-    "tier_list_method": "<p>该份牌组强度排行基于当前环境内的大赛数据，由系统自动生成。</p><p class='hidden lg:block'>我们采用了特定算法来计算每种牌组在当前环境中的强度定位。<br>请注意，在每次大赛后（通常为JCG），数据将会自动更新。</p><p class='hidden lg:block'>在每次版本更新或平衡性调整之后的初期阶段，我们会根据职业玩家的意见，手动编辑临时的牌组强度排行。</p>"
+    "tier_list_method": "<p>该份牌组强度排行基于当前环境内的大赛数据，由系统自动生成。</p><p class='hidden lg:block'>我们采用了特定算法来计算每种牌组在当前环境中的强度定位。<br>请注意，在每次大赛后（通常为JCG），数据将会自动更新。</p><p class='hidden lg:block'>在每次版本更新或平衡性调整之后的初期阶段，我们会根据职业玩家的意见，手动编辑临时的牌组强度排行。</p>",
+    "See all tournaments": "大会まとめ",
+    "Take Two Card Rankings": "2Pickのカードレーティング",
+    "Other Blood": "他のヴァンパイア",
+    "Other Rune": "他のウィッチ",
+    "Other Forest": "他のエルフ",
+    "Other Shadow": "他のネクロマンサー",
+    "Top Cut Archetypes": "プレイオフ数",
+    "Latest Tournament Report": "大会レポート",
+    "Published on:": "公開日",
+    "Full breakdown and deck lists": "完全な内訳とデッキリスト",
+    "Read Report": "レポートを読む",
+    "Decks": "デッキ"
 }
