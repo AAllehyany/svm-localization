@@ -233,5 +233,9 @@
     "Other Dragon": "未分类龙族",
     "Other Portal": "未分类复仇者",
     "Transmute Shadow": "扭蛋死",
-    "Castelle Forest": "离场妖"
+    "Castelle Forest": "离场妖",
+    "Class gold: 58.333%. Class Legendary: 25%. Neutral Legendary: 16.667%": "该职业黄金卡：58.333%；该职业传说卡：25%；中立传说卡：16.667%",
+    "Neutral bronze: 50%. Neutral Silver: 33.333%. Neutral Gold: 16.667%": "中立青铜卡：50%；中立白银卡：33.333%；中立黄金卡：16.667%",
+    "Class Gold: 63.636%. Class Legendary: 36.364%": "该职业黄金卡：63.636%；该职业传说卡：36.364%",
+    "guaranteed_legendary_note": "最新一弹卡片的出现概率将为其他卡片的1.5倍，并且于第1次、第8次与第15次中必定会出现1张以上的传说卡"
 }
